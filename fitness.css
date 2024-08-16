@@ -218,7 +218,7 @@
 }
  .Change-Your-Habits{
     
-   
+  
  }
  .habit-heading{
     font-size: 3rem; 
@@ -228,6 +228,32 @@
     text-align: center;
     margin-top: -30px;
  }
+
+ .habit-section {
+    max-width: 1060px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+
+ }
+ .imges-cricle img{
+    border-radius: 50%;
+    border: 5px solid rgb(47, 46, 44);
+    margin-bottom: -16px;
+ }
+
+ .imges-cricle h5{
+    font-size: 1.125rem;
+    font-weight: 600;
+   
+    
+ }
+ .imges-cricle p{
+    margin-top: -24px;
+ }
+
+
 
 
  /* Responsive Section */
@@ -290,5 +316,10 @@
     .banner-img{
          margin-top: -74px;
     }
+/* habbit Section Responsive */
+    .habit-section{
+        display: grid;
+         grid-template-columns: repeat(1,1fr);
+    } 
 
  }
