@@ -273,7 +273,7 @@
  .run-content{
     width: 440px;
     margin: 0;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 
  }
  .run-img img{
@@ -292,9 +292,8 @@
     margin-top: 20px;
 }
     
-}
 .run-description{
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 
