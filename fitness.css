@@ -220,10 +220,6 @@
     margin-top: -10px;
     position: absolute;
 }
- .Change-Your-Habits{
-    
-  
- }
  .habit-heading{
     font-size: 3rem; 
     text-align: center;
@@ -276,7 +272,7 @@
     margin-bottom: 5px;
 
  }
- .run-img img{
+ .run-imges{
      width: 365px;
      height: 312px;
      border-radius: 18px;
